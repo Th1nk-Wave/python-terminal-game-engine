@@ -1,0 +1,10 @@
+- 4 threads
+= input thread
+= render thread
+= utility thread
+= main thread
+
+
+
+gui element:
+can only give size when told it's parent
